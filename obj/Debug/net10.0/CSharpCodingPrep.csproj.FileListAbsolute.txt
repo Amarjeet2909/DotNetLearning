@@ -1,0 +1,28 @@
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.exe
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.deps.json
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.runtimeconfig.json
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.dll
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.pdb
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.AssemblyInfoInputs.cache
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.AssemblyInfo.cs
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.csproj.CoreCompileInputs.cache
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.dll
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\refint\CSharpCodingPrep.dll
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.pdb
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.genruntimeconfig.cache
+C:\Users\KuAm207\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\ref\CSharpCodingPrep.dll
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.exe
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.deps.json
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.runtimeconfig.json
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.dll
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\bin\Debug\net10.0\CSharpCodingPrep.pdb
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.AssemblyInfoInputs.cache
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.AssemblyInfo.cs
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.csproj.CoreCompileInputs.cache
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.dll
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\refint\CSharpCodingPrep.dll
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.pdb
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.genruntimeconfig.cache
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\ref\CSharpCodingPrep.dll
