@@ -32,6 +32,6 @@ public class NullableTypesPracticeQuestion : IQuestion
         // TODO 5:
         // Create a helper method:
         // static int SafeLength(string? input) => input?.Length ?? 0;
-        // Call it with null and "hello", print both outputs
+        // Call it with null and "hello", print both outputs 
     }
 }
