@@ -94,3 +94,32 @@
  */
 
 #endregion
+
+#region 3.4 - == vs Equals vs ReferenceEquals
+
+/*
+ * == :
+ *   Operator. For reference types compares references unless overloaded.
+ *   string overloads == for value-based comparison.
+ *
+ * Equals():
+ *   Virtual method from object. Can be overridden for value equality.
+ *   If you override Equals, you MUST also override GetHashCode.
+ *
+ * ReferenceEquals(a, b):
+ *   Always checks identity (same object instance in memory).
+ *   Ignores custom equality overrides.
+ *
+ * INTERVIEW TRAP:
+ *   "== and Equals are always same" -> FALSE.
+ *   Behavior depends on type and overrides/operator overloads.
+ *
+ * CLASS DEFAULT:
+ *   Without overrides, class equality is reference-based.
+ *
+ * STRING SPECIAL CASE:
+ *   string uses value equality for == and Equals.
+ *   ReferenceEquals may be true/false depending on interning, do not rely on it for logical equality.
+ */
+
+#endregion

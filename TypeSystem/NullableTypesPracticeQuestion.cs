@@ -22,16 +22,23 @@ public class NullableTypesPracticeQuestion : IQuestion
         // Create string? name = null
         // Safely print name length using ?. and ?? (should print 0)
         string? name = null;
-
+        Console.WriteLine(name?.Length ?? 0);
 
         // TODO 4:
         // Create string? city = null
         // Use ??= to assign "Bengaluru" only if null
         // Print city
+        string? city = null;
+        city ??= "Bengaluru";
+        Console.WriteLine(city);
 
         // TODO 5:
         // Create a helper method:
         // static int SafeLength(string? input) => input?.Length ?? 0;
         // Call it with null and "hello", print both outputs 
+        static int SafeLength(string? input) => input?.Length ?? 0;
+        Console.WriteLine(SafeLength(null));
+        Console.WriteLine(SafeLength("hello"));
+
     }
 }
