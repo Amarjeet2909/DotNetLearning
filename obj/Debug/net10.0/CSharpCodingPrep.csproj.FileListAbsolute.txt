@@ -26,3 +26,4 @@ C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\n
 C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.pdb
 C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.genruntimeconfig.cache
 C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\ref\CSharpCodingPrep.dll
+C:\Users\KuAm207\OneDrive - HP Inc\Desktop\Learning\CSharpCodingPrep\obj\Debug\net10.0\CSharpCodingPrep.sourcelink.json

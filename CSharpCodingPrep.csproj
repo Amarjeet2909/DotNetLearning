@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Arrays\" />
-    <Folder Include="Collections\" />
     <Folder Include="LINQ\" />
     <Folder Include="AsyncAwait\" />
     <Folder Include="DesignPatterns\" />

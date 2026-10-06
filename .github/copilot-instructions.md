@@ -7,6 +7,7 @@
 - **Do NOT skip any topic even if user already knows it** — teach at full depth every time, since notes are being built for long-term/future interview prep, not just first-time learning. User explicitly wants no shortcuts and wants sufficiently deep teaching, and asks for clarification whenever a concept is unclear.
 - Teaching format per topic (always 4 parts): Theory -> Explanation (with internals/misconceptions) -> Example (working C# code) -> Note-taking instructions (✍️ Pen & Paper / 💻 Digital Note in .cs format / 🧪 Practice exercise in Basics\ folder using existing IQuestion pattern).
 - After user submits practice code, review it (point out mistakes, better patterns, add real mistakes to Notes\InterviewGotchas.cs) before moving to the next topic.
+- Proactively update this progress tracker yourself after every completed teaching topic and every practice review; never ask the user to maintain it.
 - User commitment: 3 hours/day, 5 days/week.
 - Practice tasks must be extremely explicit and unambiguous, with step-by-step TODOs and exact expected outputs to avoid confusion.
 
@@ -37,25 +38,27 @@
 
 ## 📍 PROGRESS TRACKER (update after every session)
 
-**Last updated:** 2026-09-02
+**Last updated:** 2026-09-26
 
 ### Completed Topics
 - [x] Module 1 — Language Basics (1.1–1.6) — FULLY COMPLETE
-- [x] Module 2.1 — Classes and Objects
-- [x] Module 2.2 — Constructors, `this`, and Static Members
-- [x] Module 2.3 — Encapsulation
-- [x] Module 2.4 — Inheritance
-- [x] Module 2.5 — Polymorphism
-- [x] Module 2.6 — Abstraction (taught, practice reviewed — all correct, minor style note: omit 'public' in interface members)
-- [x] Module 3.1 — Value vs Reference Types (stack/heap semantics, copy behavior, method passing behavior, string immutability)
+- [x] Module 2 — Object-Oriented Programming (2.1–2.7) — FULLY COMPLETE
+- [x] Module 3 — Type System Deep Dive (3.1–3.4) — FULLY COMPLETE
+- [x] Module 4.1 — Arrays (taught, practice reviewed and corrected)
+- [x] Module 4.2 — Core Collections (taught; all five practice exercises reviewed and correct for supplied data; improvement: check TryGetValue's Boolean result for every optional lookup)
 
-### Next Topic To Teach
-- [ ] Module 3.2 — Boxing and Unboxing
+### Current Topic
+- [ ] Module 4.3 — Generics and Constraints (next to teach)
+
+### Next Required Action
+- Teach Module 4.3 — Generics and Constraints in full depth, with examples, pen-and-paper notes, digital .cs notes, and explicit practice TODOs.
 
 ### Files Created So Far
 - `Notes\LanguageBasics-01.cs` (Module 1 complete)
-- `Notes\OOP-02.cs` (contains 2.1–2.6 digital notes)
-- `Notes\InterviewGotchas.cs` (mistakes: 1.2–1.6, 2.1–2.5 logged)
+- `Notes\OOP-02.cs` (Module 2 notes, 2.1–2.7)
+- `Notes\TypeSystem-03.cs` (Module 3 notes, 3.1–3.4)
+- `Notes\CollectionsAndGenerics-04.cs` (Module 4 notes, 4.1–4.2)
+- `Notes\InterviewGotchas.cs` (mistakes and interview traps logged)
 - `OOP\ClassesPracticeQuestion.cs` (completed & reviewed)
 - `OOP\ConstructorsPracticeQuestion.cs` (completed & reviewed)
 - `OOP\EncapsulationPracticeQuestion.cs` (completed & reviewed)

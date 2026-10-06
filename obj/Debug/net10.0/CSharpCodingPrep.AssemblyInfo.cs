@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpCodingPrep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83e03814304276d90da3a6e3e40cc6c39820e576")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb41462ded54f56e4c6afe133380df4434f513e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpCodingPrep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpCodingPrep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
